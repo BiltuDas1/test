@@ -13,4 +13,4 @@ entropy = 3.5
 
 [allowlist]
 description = "Ignore specific files and extensions"
-paths = ['''example\.txt$''']
+paths = []
